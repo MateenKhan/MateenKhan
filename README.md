@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MateenKhan
 - 👀 I’m interested in Technologies of (server side, client side and gaming) 
-- 🌱 I’m currently Brushing up server side technolgies like spring boot
+- 🌱 I’m currently working on couple of open source projects.
 - 📫 How to reach me ( makjavaprogrammer@gmail.com) 
 
 <!---
