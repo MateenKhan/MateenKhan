@@ -1,31 +1,35 @@
 <h2 align="left">Hi 👋! My name is Mateen and I'm a Programmer, from Hyderabad-India</h2>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MateenKhan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateenKhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a target="_blank" href = "https://mateenkhan.github.io/GoodCode/AboutMe/index.html"><img src="https://mateenkhan.github.io/GoodCode/assets/img/profile-img.jpg?layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /></a>
+  
+
 </div>
 
 
 
 ###
 
-<a target="_blank" href = "https://mateenkhan.github.io/GoodCode/AboutMe/index.html"><img align="right" height="150" src="https://mateenkhan.github.io/GoodCode/assets/img/profile-img.jpg"  /></a>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
+  
+ 
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" title="Java"  class="hovertext" data-hover="Hello, this is the tooltip"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="30" alt="angular logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://kubernetes.io/images/favicon.png" height="30" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" height="30" alt="git logo"  />
+  
 </div>
 
 ###
@@ -38,6 +42,5 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/MateenKhan/MateenKhan/output/snake.svg" alt="Snake animation" />
 
 ###
